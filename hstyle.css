@@ -26,6 +26,11 @@
 
 .r1{
     float:left;
+    background-color:darkorange;
+    width:300px;
+    padding: 1px;
+    position: relative;
+    top:-15px;
 }
 .r2{
     float:right;
